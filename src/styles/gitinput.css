@@ -1,0 +1,30 @@
+.btn {
+  display: block;
+  padding: 15px 120px;
+  margin-top: 20px;
+}
+#inputbox {
+  display: inline-block;
+  vertical-align: top;
+  height: 100px;
+  width: 500px;
+  padding: 20px;
+}
+
+#username {
+  height: 30px;
+  padding: 10px 10px 10px 0px;
+  font-size: 20px;
+}
+
+#userlabel {
+  padding: 10px 10px 10px 0px;
+}
+
+#userinputbox {
+  height: 30px;
+  width: 200px;
+  border: 5px solid grey;
+  
+  
+}

@@ -1,0 +1,11 @@
+#gitboard {
+  height: 500px;
+  width: 900px;
+  background-color: peachpuff;
+  padding: 10px;
+  margin: 100px;
+}
+
+#header {
+  margin-left: 10px;
+}
